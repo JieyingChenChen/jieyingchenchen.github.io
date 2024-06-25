@@ -71,6 +71,7 @@ plugins:
 
 include:
   - services
+  - teaching
 
 
 
