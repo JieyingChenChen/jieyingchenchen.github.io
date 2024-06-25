@@ -146,13 +146,13 @@ main:
     bibtex: [BibTeX]
     notes: Published
   
-  # - title: "On Computing Minimal EL-Subsumption Modules"
-  #   authors: <strong>Jieying Chen</strong>, Michel Ludwig, Dirk Walther
-  #   conference_short: JOW 2016
-  #   conference: Joint Ontology Workshops 2016 Episode 2: The French Summer of Ontology
-  #   pdf: [PDF]
-  #   bibtex: [BibTeX]
-  #   notes: Published
+  - title: "On Computing Minimal EL-Subsumption Modules"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Dirk Walther
+    conference_short: JOMO 2016
+    conference: Joint Ontology Workshops 2016
+    pdf: [PDF]
+    bibtex: [BibTeX]
+    notes: Published
   
   - title: "Evaluation of Extraction Techniques for Ontology Excerpts"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
