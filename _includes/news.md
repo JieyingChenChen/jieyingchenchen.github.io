@@ -5,8 +5,8 @@
 <ul>
 
 <li><strong>[FEB. 2024]</strong> I moved to Amsterdam and started a new position as an assistant professor at VU Amsterdam. </li>
-<li><strong>[DEC. 2023]</strong> The <span style="color:#e74d3c"><a href="https://songchen.science/blog/gallery/">Hitchhiker's Gallery</a></span> has been released, thanks to anzai's <span style="color:#e74d3c"><a href="https://github.com/anzai249/easy-masonry/tree/main">work: easy-masonry</a></span> </li>
-<li><strong>[NOV. 2023]</strong> The <span style="color:#e74d3c"><a href="https://bemagic-etn.eu/news/80-bemagic-final-event">Final Event of the BeMAGIC project</a></span> will take place in the Universitat Autònoma de Barcelona, Spain, on 14-15 December. </li>
+<li><strong>[OCT. 2023]</strong> I gave a presentation about the work  <span style="color:#e74d3c"><a href="https://ceur-ws.org/Vol-3632/ISWC2023_paper_499.pdf">Improving Reasoning on Large Ontologies via Ontology Modularity</a></span>  with Aibel on the industry track of ISWC 2023. </li>
+<li><strong>[AUG. 2023]</strong> I started a position as a senior research associate at the <span style="color:#e74d3c"><a href="https://www.cs.ox.ac.uk/people/jieying.chen/">University of Oxford </a></span> on the Concur project. </li>
 <li><strong>[NOV. 2023]</strong> AHEMS: <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net/?/AHEMS/">Anomalous Hall Effect Measurement System</a></span> has been released.</li>
 <li><strong>[NOV. 2023]</strong> <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net/?/I-V/">I-V Measurement System</a></span> has been released.</li>
 <li><strong>[OCT. 2023]</strong> The Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> has now integrated an <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net">onedrive file list program</a></span> implemented by calling API.</li>
