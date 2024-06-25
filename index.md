@@ -10,7 +10,6 @@ layout: homepage
   
   I was a PhD student at [Université Paris-Saclay (France)](https://www.universite-paris-saclay.fr/). In June 2018, I was selected to attend [French American Doctoral Exchange Seminar (FADEx) 2018 in Artificial Intelligence](https://france-science.com/en/programs/our-programs/fadex/) organised by Mission pour la Science et la Technologie aux États-Unis. From October 2013 to March 2014, I was an exchange student in the master's program of computational logic at TU Dresden (Germany) funded by the European programme Erasmus Mundus.
   
-# The option is used to enable the Johns Hopkins template.
 
 ## Research Interest:
 - **Knowledge Representation and Reasoning:** Description Logics, Ontology Modularity, Justifications, Uniform Interpolations/Forgetting
