@@ -6,6 +6,15 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
+  Currently, I am a tenure-track assistant professor at Vrije Universiteit Amsterdam (the Netherlands).
+  Before that, I was a senior research associate at the University of Oxford (UK). I was a full-time
+  IT (management) consultant at Boston Consulting Group from September 2022 to June 2023. From September 2019 to August 2022, I was a senior lecturer/postdoc at the University of Oslo (Norway).
+  From March
+  2019 to August 2019, I was a research associate at The University of Manchester (UK) and worked on
+  the EPSRC IAA Project "Comparison and Abstraction of SNOMED CT Ontologie together with Snomed International. Before that, I was a PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) (France). In June 2018, I was selected to attend French American Doctoral Exchange Seminar (FADEx) 2018 that organised by Mission pour la Science et la Technologie aux États-Unis. I received my master degree in the College of Computer Science, Jilin University (China). From October 2013 to March 2014, I was an exchange student in the master program of computational logic at TU Dresden (Germany) funded by the European programme Erasmus Mundus.
+  
+# The option is used to enable the Johns Hopkins template.
+
 I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
 ## Research Interest:
 - **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
