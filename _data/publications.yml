@@ -17,23 +17,23 @@ main:
     bibtex: [BibTeX]
     notes: Published
 
-  - title: Scaling Usability of ML Analytics with Knowledge Graphs: Exemplified with A Bosch Welding Case
-    authors: Baifan Zhou, Dongzhuoran Zhou, <strong>Jieying Chen</strong>, Yulia Svetashova, Gong Cheng, Evgeny Kharlamov
-    conference_short: IJCKG 2021
-    conference: 10th International Joint Conference on Knowledge Graphs
-    pdf: [PDF]
-    page: [BibTeX]
-    bibtex: [BibTeX]
-    notes: Published
+  # - title: Scaling Usability of ML Analytics with Knowledge Graphs: Exemplified with A Bosch Welding Case
+  #   authors: Baifan Zhou, Dongzhuoran Zhou, <strong>Jieying Chen</strong>, Yulia Svetashova, Gong Cheng, Evgeny Kharlamov
+  #   conference_short: IJCKG 2021
+  #   conference: 10th International Joint Conference on Knowledge Graphs
+  #   pdf: [PDF]
+  #   page: [BibTeX]
+  #   bibtex: [BibTeX]
+  #   notes: Published
 
-  - title: Towards Ontology Reshaping for KG Generation with User-in-the-Loop: Applied to Bosch Welding
-    authors: Dongzhuoran Zhou, Baifan Zhou, <strong>Jieying Chen</strong>, Gong Cheng, Evgeny Kharlamov
-    conference_short: IJCKG 2021
-    conference: 10th International Joint Conference on Knowledge Graphs
-    pdf: [PDF]
-    page: [BibTeX]
-    bibtex: [BibTeX]
-    notes: To appear
+  # - title: Towards Ontology Reshaping for KG Generation with User-in-the-Loop: Applied to Bosch Welding
+  #   authors: Dongzhuoran Zhou, Baifan Zhou, <strong>Jieying Chen</strong>, Gong Cheng, Evgeny Kharlamov
+  #   conference_short: IJCKG 2021
+  #   conference: 10th International Joint Conference on Knowledge Graphs
+  #   pdf: [PDF]
+  #   page: [BibTeX]
+  #   bibtex: [BibTeX]
+  #   notes: To appear
 
   - title: Deductive Module Extraction for Expressive Description Logics
     authors: Patrick Koopmann, <strong>Jieying Chen</strong>
