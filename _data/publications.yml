@@ -44,122 +44,122 @@ main:
     bibtex: [PDF][BibTeX]
     notes: Published
 
-    - title: "Ontology Extraction for Large Ontologies via Modularity and Forgetting"
-  authors: <strong>Jieying Chen</strong>, Ghadah Alghamdi, Renate A. Schmidt, Dirk Walther, Yongsheng Gao
-  conference_short: K-Cap 2019
-  conference: 10th International Conference on Knowledge Capture
-  pdf: [PDF]
-  page: 45-52
-  bibtex: [BibTeX]
-  notes: Published
+  - title: "Ontology Extraction for Large Ontologies via Modularity and Forgetting"
+    authors: <strong>Jieying Chen</strong>, Ghadah Alghamdi, Renate A. Schmidt, Dirk Walther, Yongsheng Gao
+    conference_short: K-Cap 2019
+    conference: 10th International Conference on Knowledge Capture
+    pdf: [PDF]
+    page: 45-52
+    bibtex: [BibTeX]
+    notes: Published
 
-- title: "Computing Minimal Projection Modules of Description Logic Terminologies"
-  authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
-  conference_short: JELIA 2019
-  conference: 16th edition of the European Conference on Logics in Artificial Intelligence
-  pdf: [PDF]
-  page: 355-370
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Computing Minimal Subsumption Modules of Ontologies"
-  authors: <strong>Jieying Chen</strong>, Michel Ludwig, Dirk Walther
-  conference_short: GCAI 2018
-  conference: 4th Global Conference on Artificial Intelligence
-  pdf: [PDF]
-  page: September 2018
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Zooming in on Ontologies: Minimal Modules and Best Excerpts"
-  authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
-  conference_short: ISWC 2017
-  conference: 16th International Semantic Web Conference
-  pdf: [PDF]
-  page: 173–189
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Towards Extracting Ontology Excerpts"
-  authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
-  conference_short: KSEM 2015
-  conference: 8th International Conference on Knowledge Science, Engineering and Management
-  pdf: [PDF]
-  page: 78–89
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Union and Intersection of all Justifications"
-  authors: <strong>Jieying Chen</strong>, Yue Ma, Rafael Peñaloza, Hui Yang
-  conference_short: DL 2021
-  conference: 34th International Workshop on Description Logics
-  pdf: [PDF]
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Deductive Module Extraction for Expressive Description Logics"
-  authors: Patrick Koopmann, <strong>Jieying Chen</strong>
-  conference_short: DL 2020
-  conference: 33rd International Workshop on Description Logics
-  pdf: [PDF]
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Modularity Meets Forgetting: A Case Study with the SNOMED CT Ontology"
-  authors: <strong>Jieying Chen</strong>, Ghadah Alghamdi, Renate A. Schmidt, Dirk Walther, Yongsheng Gao
-  conference_short: DL 2019
-  conference: 32nd International Workshop on Description Logics
-  pdf: [PDF]
-  page: June 2019
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Computing Best Ontology Excerpts via Partial Max-SAT Solving"
-  authors: <strong>Jieying Chen</strong>, Yue Ma, Dirk Walther
-  conference_short: DL 2018
-  conference: 31st International Workshop on Description Logics
-  pdf: [PDF]
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Computing Minimal Projection Modules for Conjunctive Queries"
-  authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
-  conference_short: DL 2018
-  conference: 31st International Workshop on Description Logics
-  pdf: [PDF]
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Computing ALCH-Subsumption Modules Using Uniform Interpolation"
-  authors: Patrick Koopmann, <strong>Jieying Chen</strong>
-  conference_short: SOQE 2017
-  conference: Workshop on Second-Order Quantifier Elimination and Related Topics
-  pdf: [PDF]
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Computing Subsumption Justifications of Ontologies"
-  authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
-  conference_short: DL 2017
-  conference: 30th International Workshop on Description Logics
-  pdf: [PDF]
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "On Computing Minimal EL-Subsumption Modules"
-  authors: <strong>Jieying Chen</strong>, Michel Ludwig, Dirk Walther
-  conference_short: JOW 2016
-  conference: Joint Ontology Workshops 2016 Episode 2: The French Summer of Ontology
-  pdf: [PDF]
-  bibtex: [BibTeX]
-  notes: Published
-
-- title: "Evaluation of Extraction Techniques for Ontology Excerpts"
-  authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
-  conference_short: DL 2014
-  conference: 27th International Workshop on Description Logics
-  pdf: [PDF]
-  page: 471–482
-  bibtex: [BibTeX]
-  notes: Published
+  - title: "Computing Minimal Projection Modules of Description Logic Terminologies"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
+    conference_short: JELIA 2019
+    conference: 16th edition of the European Conference on Logics in Artificial Intelligence
+    pdf: [PDF]
+    page: 355-370
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Computing Minimal Subsumption Modules of Ontologies"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Dirk Walther
+    conference_short: GCAI 2018
+    conference: 4th Global Conference on Artificial Intelligence
+    pdf: [PDF]
+    page: September 2018
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Zooming in on Ontologies: Minimal Modules and Best Excerpts"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
+    conference_short: ISWC 2017
+    conference: 16th International Semantic Web Conference
+    pdf: [PDF]
+    page: 173–189
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Towards Extracting Ontology Excerpts"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
+    conference_short: KSEM 2015
+    conference: 8th International Conference on Knowledge Science, Engineering and Management
+    pdf: [PDF]
+    page: 78–89
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Union and Intersection of all Justifications"
+    authors: <strong>Jieying Chen</strong>, Yue Ma, Rafael Peñaloza, Hui Yang
+    conference_short: DL 2021
+    conference: 34th International Workshop on Description Logics
+    pdf: [PDF]
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Deductive Module Extraction for Expressive Description Logics"
+    authors: Patrick Koopmann, <strong>Jieying Chen</strong>
+    conference_short: DL 2020
+    conference: 33rd International Workshop on Description Logics
+    pdf: [PDF]
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Modularity Meets Forgetting: A Case Study with the SNOMED CT Ontology"
+    authors: <strong>Jieying Chen</strong>, Ghadah Alghamdi, Renate A. Schmidt, Dirk Walther, Yongsheng Gao
+    conference_short: DL 2019
+    conference: 32nd International Workshop on Description Logics
+    pdf: [PDF]
+    page: June 2019
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Computing Best Ontology Excerpts via Partial Max-SAT Solving"
+    authors: <strong>Jieying Chen</strong>, Yue Ma, Dirk Walther
+    conference_short: DL 2018
+    conference: 31st International Workshop on Description Logics
+    pdf: [PDF]
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Computing Minimal Projection Modules for Conjunctive Queries"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
+    conference_short: DL 2018
+    conference: 31st International Workshop on Description Logics
+    pdf: [PDF]
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Computing ALCH-Subsumption Modules Using Uniform Interpolation"
+    authors: Patrick Koopmann, <strong>Jieying Chen</strong>
+    conference_short: SOQE 2017
+    conference: Workshop on Second-Order Quantifier Elimination and Related Topics
+    pdf: [PDF]
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Computing Subsumption Justifications of Ontologies"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
+    conference_short: DL 2017
+    conference: 30th International Workshop on Description Logics
+    pdf: [PDF]
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "On Computing Minimal EL-Subsumption Modules"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Dirk Walther
+    conference_short: JOW 2016
+    conference: Joint Ontology Workshops 2016 Episode 2: The French Summer of Ontology
+    pdf: [PDF]
+    bibtex: [BibTeX]
+    notes: Published
+  
+  - title: "Evaluation of Extraction Techniques for Ontology Excerpts"
+    authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
+    conference_short: DL 2014
+    conference: 27th International Workshop on Description Logics
+    pdf: [PDF]
+    page: 471–482
+    bibtex: [BibTeX]
+    notes: Published
 
