@@ -8,14 +8,14 @@ layout: homepage
 
   Currently, I am an [assistant professor at Vrije Universiteit Amsterdam (the Netherlands)](https://research.vu.nl/en/persons/jieying-chen). Before that, I was a senior research associate at the [University of Oxford (UK)](https://www.cs.ox.ac.uk/people/jieying.chen/). I was a full-time IT (management) consultant at [Boston Consulting Group](https://www.bcg.com/nordics)  (Platinion) Nordics from September 2022 to June 2023. From September 2019 to August 2022, I was a senior lecturer/postdoc at the University of Oslo (Norway). From March 2019 to August 2019, I was a research associate at The University of Manchester (UK) and worked on the EPSRC IAA Project "Comparison and Abstraction of SNOMED CT Ontologie together with [Snomed International](https://www.snomed.org/). 
   
-  I was a PhD student at [Université Paris-Saclay (France)](https://www.universite-paris-saclay.fr/). In June 2018, I was selected to attend [French American Doctoral Exchange Seminar (FADEx) 2018 in Artificial Intelligence](https://france-science.com/en/programs/our-programs/fadex/) organised by Mission pour la Science et la Technologie aux États-Unis. From October 2013 to March 2014, I was an exchange student in the master's program of computational logic at TU Dresden (Germany) funded by the European programme Erasmus Mundus.
+  I received my PhD degree at [Université Paris-Saclay (France)](https://www.universite-paris-saclay.fr/). In June 2018, I was selected to attend [French American Doctoral Exchange Seminar (FADEx) 2018 in Artificial Intelligence](https://france-science.com/en/programs/our-programs/fadex/) organised by Mission pour la Science et la Technologie aux États-Unis. From October 2013 to March 2014, I was an exchange student in the master's program of computational logic at TU Dresden (Germany) funded by the European programme Erasmus Mundus.
   
 
 ## Research Interest:
 - **Knowledge Representation and Reasoning:** Description Logics, Ontology Modularity, Justifications, Uniform Interpolations/Forgetting
 - **Semantic Web:** Ontology Modeling, Ontology Modularity, Ontology Extraction
 - **Industrial Collaborations** in the fields of medicine, energy, and manufacturing
-- **Combination of KR and NLP:** Ontology text alignment, Knowledge generation from texts
+- **Combination of KR and NLP:** Ontology Text Alignment, Knowledge Generation from Texts
 - **Combination of KR and ML:** Ontology Embedding
 - **AI for social goods:** Bias Detection with LLMs in HRM, Political Science, etc.
 {% include_relative _includes/news.md %}
