@@ -12,7 +12,7 @@ layout: homepage
   
 
 ## Research Interest:
-- **Knowledge Representation and Reasoning:** Description Logics, Ontology Modularity, Justifications, Uniform Interpolations/Forgetting
+- **Knowledge Representation and Reasoning:** Description Logics, Ontology Modularity, Justifications, Uniform Interpolations / Forgetting
 - **Semantic Web:** Ontology Modeling, Ontology Modularity, Ontology Extraction
 - **Industrial Collaborations** in the fields of medicine, energy, and manufacturing
 - **Combination of KR and NLP:** Ontology Text Alignment, Knowledge Generation from Texts
