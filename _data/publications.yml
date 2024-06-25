@@ -35,14 +35,14 @@ main:
     bibtex: [BibTeX]
     notes: Published
 
-  - title: Deductive Module Extraction for Expressive Description Logics
-    authors: Patrick Koopmann, <strong>Jieying Chen</strong>
-    conference_short: IJCAI 2020
-    conference: 29th International Joint Conference on Artificial Intelligence
-    pdf: [PDF]
-    page: 1636-1643
-    bibtex: [PDF][BibTeX]
-    notes: Published
+  # - title: Deductive Module Extraction for Expressive Description Logics
+  #   authors: Patrick Koopmann, <strong>Jieying Chen</strong>
+  #   conference_short: IJCAI 2020
+  #   conference: 29th International Joint Conference on Artificial Intelligence
+  #   pdf: [PDF]
+  #   page: 1636-1643
+  #   bibtex: [PDF][BibTeX]
+  #   notes: Published
 
   - title: "Ontology Extraction for Large Ontologies via Modularity and Forgetting"
     authors: <strong>Jieying Chen</strong>, Ghadah Alghamdi, Renate A. Schmidt, Dirk Walther, Yongsheng Gao
