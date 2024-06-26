@@ -2,7 +2,7 @@
 
 <h2 style="margin: 30px 0px 10px;">Teaching</h2>
 
-
+<!-- 
 - Engaged in co-teaching and examining various university courses across multiple levels, emphasizing practical applications and theoretical foundations in technology and logic.
 
 ## Key Responsibilities
@@ -11,6 +11,9 @@
 - Integrated industry experts into the classroom to provide real-world perspectives.
 
 ## Relevant Courses
+
+-->
+
 - **AI in Health (Spring 2023/2024)**: Co-taught at Vrije Universiteit Amsterdam, the Netherlands, focusing on applications of artificial intelligence in healthcare.
 - **Database System (Spring 2021)**: Examiner for oral exams at the University of Oslo, Norway, ensuring rigorous assessment and comprehensive student feedback.
 - **Semantic Technologies (Spring 2021/2022)**:
