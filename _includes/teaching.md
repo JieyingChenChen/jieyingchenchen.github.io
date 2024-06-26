@@ -23,9 +23,4 @@
   - Invited two guest lecturers from industry to enhance course relevance and applicability.
 - **Logic (2021)**: Internal examiner for IN3700 Logic at the University of Oslo, Norway, collaborated with an external examiner from the University of Bergen, Norway, to maintain academic integrity and assessment quality.
 - **IOS Project (2017)**: Supervised 16 bachelor students at IUT d’Orsay, University of Paris-Saclay, France, guiding project work and grading their codes and final presentations.
-<!-- 
-## Educational Impact
-- Developed and refined course materials to align with the latest academic standards and industry needs.
-- Fostered a dynamic learning environment that encourages student engagement and the application of theoretical knowledge in practical settings.
 
--->
