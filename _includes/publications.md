@@ -9,13 +9,18 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 60px;"> <!-- Increased padding-left from 20px to 40px -->
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em></div>
+  <!-- Adjusting the structure to bring badge next to the title -->
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 90px;">
+    <div style="display: flex; align-items: center;"> <!-- Flex container for horizontal alignment -->
+      <div style="margin-right: 10px;">
+        <abbr class="badge">{{ link.conference_short }}</abbr> <!-- Badge next to the title -->
+      </div>
+      <div>
+        <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+        <div class="author">{{ link.authors }}</div>
+        <div class="periodical"><em>{{ link.conference }}</em></div>
+      </div>
+    </div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
