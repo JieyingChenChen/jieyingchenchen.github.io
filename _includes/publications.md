@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 100px 0px -15px;">Publications</h2>
+<h2 style="margin: 30px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -12,7 +12,7 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;"> <!-- Increased padding-left from 20px to 40px -->
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 60px;"> <!-- Increased padding-left from 20px to 40px -->
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
