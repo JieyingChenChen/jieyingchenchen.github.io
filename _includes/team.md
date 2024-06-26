@@ -7,27 +7,24 @@
 - Ameneh Naghdi Pour
 
 
-## MSc Student
-2024
-- Willem Huijzer
-- Nina Liem
-- Milena de Swart
-- Karen van Jong
-- Cheremy Pongajow
+## MSc Students
+- Andreas Christian Poole (2023-2025)
+- Willem Huijzer (2024)
+- Nina Liem (2024)
+- Milena de Swart (2024)
+- Karen van Jong (2024)
+- Cheremy Pongajow (2024)
 
-2023
-- Alva Marie Høylyk
-- Martin Tri Vien Lam
 
-2022
-- Johanna Peerdatter Haarseth
+- Alva Marie Høylyk (2021-2023)
+- Martin Tri Vien Lam (2021-2023)
+- Johanna Peerdatter Haarseth (2020-2022)
 
 
 
-## BSc Student
-2024
-- Radu Mistreanu
-- Pei Tong
-- Yucheng Zou
-- Job Kayhan
+## BSc Students
+- Radu Mistreanu (2024)
+- Pei Tong (2024)
+- Yucheng Zou (2024)
+- Job Kayhan (2024)
 
