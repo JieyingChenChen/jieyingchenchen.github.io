@@ -12,8 +12,6 @@
 - Milena de Swart (2024)
 - Karen van Jong (2024)
 - Cheremy Pongajow (2024)
-
-
 - Alva Marie Høylyk (2021-2023)
 - Martin Tri Vien Lam (2021-2023)
 - Johanna Peerdatter Haarseth (2020-2022)
