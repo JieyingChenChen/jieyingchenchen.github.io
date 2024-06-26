@@ -1,3 +1,4 @@
+<div class="anchor" id="consulting"></div>
 # Consulting
 
 - Worked closely with key stakeholders at BCG and clients to define project goals, conduct assessments, analyze gaps, and develop strategic roadmaps.
