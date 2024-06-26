@@ -18,5 +18,14 @@ main:
     # image: https://blog.songchen.science/images/AHE/GUI.png
     notes:
 
+   - title: "Enabling digitalization in and beyond the oil and gas industry"
+    authors: "Partners: University of Oxford, SINTEF, Aibel, Bosch, Equinor, etc."
+    project_short: SIRIUS
+    project: SIRIUS is a Norwegian Centre for Research-driven Innovation that addresses the problems of scalable data access in and beyond the oil & gas industry. The centre combines public funding for basic research with funding from its industry partners into an 8 year programme for industrial innovation.
+    # pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
+    web: https://sirius-labs.no/
+    # image: https://blog.songchen.science/images/AHE/GUI.png
+    notes:
+
 
 
