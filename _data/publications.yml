@@ -6,7 +6,7 @@ main:
     pdf: [PDF]
     page: [BibTeX]
     bibtex: [BibTeX]
-    notes: 
+    notes: Published
 
   - title: Union and Intersection of all Justifications
     authors: <strong>Jieying Chen</strong>, Yue Ma, Rafael Peñaloza, Hui Yang
