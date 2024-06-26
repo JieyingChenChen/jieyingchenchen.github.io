@@ -6,6 +6,9 @@ main:
 
   # - title: "Conferences & Events"
   #   url: ./#conferences
+  - title: "Consulting" 
+    url: ./#consulting
+    right: true 
 
   - title: "Publications"
     url: ./#publications
@@ -19,9 +22,7 @@ main:
   - title: "News"
     url: ./#news
 
-  - title: "Consulting" 
-    url: ./#consulting
-    right: true 
+
 
   - title: "Students"
     url: ./#team
