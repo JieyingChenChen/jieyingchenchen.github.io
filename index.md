@@ -38,9 +38,9 @@ layout: homepage
 
 {% include_relative _includes/teaching.md %}
 
-
-
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/team.md %}
 
 
  -->
