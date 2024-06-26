@@ -12,7 +12,7 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">{{ link.project_short }}</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 40px;"> <!-- Increased padding-left from 20px to 40px -->
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 60px;"> <!-- Increased padding-left from 40px to 60px -->
       <div class="title"><a href="{{ link.web }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="author">{{ link.abstract }}</div>
