@@ -3,28 +3,19 @@ main:
     authors: "Partners: Philips, Canon, etc."
     project_short: Zorro
     project: ZORRO is a research project funded by NWO and carried out by a multidisciplinary consortium consisting of University of Twente, Vrije Universiteit, Saxion, TNO-ESI and industrial partners ASML, Canon Production Printers, ITEC, Philips, and ThermoFisher Scientific.
-    # pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
     web: https://zorro-project.nl/
-    # image: https://blog.songchen.science/images/I-V/GUI.png
     notes:
 
   - title: "ConCur: Knowledge Base Construction and Curation"
     authors: "Partners: University of Oxford, Samsung"
     project_short: ConCur
     project: Concur is mainly funded by UK Engineering and Physical Sciences Research Council (EPSRC). We study a range of semantic and machine learning techniques, and how to combine them to support knowledge graph construction and curation. As well as its application to knowledge graph construction and curation, the research will also contribute to the development of new neural-symbolic theories, paradigms and methods, such as deep semantic embedding for learning representations for expressive knowledge, and knowledge-guided learning for addressing sample shortage problems.
-    # pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
     web: https://www.cs.ox.ac.uk/projects/ConCur/index.html
-    # image: https://blog.songchen.science/images/AHE/GUI.png
     notes:
 
-   - title: "Enabling digitalization in and beyond the oil and gas industry"
+  - title: "Enabling digitalization in and beyond the oil and gas industry"
     authors: "Partners: University of Oxford, SINTEF, Aibel, Bosch, Equinor, etc."
     project_short: SIRIUS
     project: SIRIUS is a Norwegian Centre for Research-driven Innovation that addresses the problems of scalable data access in and beyond the oil & gas industry. The centre combines public funding for basic research with funding from its industry partners into an 8 year programme for industrial innovation.
-    # pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
     web: https://sirius-labs.no/
-    # image: https://blog.songchen.science/images/AHE/GUI.png
     notes:
-
-
-
