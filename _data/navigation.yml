@@ -19,7 +19,7 @@ main:
   - title: "News"
     url: ./#news
 
- - title: "Consulting"
+  - title: "Consulting" 
     url: ./#consulting
 
   # - title: "Blogs"
