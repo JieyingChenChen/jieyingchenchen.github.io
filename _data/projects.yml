@@ -7,7 +7,7 @@ main:
     notes:
 
   - title: "ConCur: Knowledge Base Construction and Curation"
-    authors: "Partners: University of Oxford, Samsung"
+    authors: "Partners: University of Oxford, Samsung."
     project_short: ConCur
     project: Concur is mainly funded by UK Engineering and Physical Sciences Research Council (EPSRC). We study a range of semantic and machine learning techniques, and how to combine them to support knowledge graph construction and curation. As well as its application to knowledge graph construction and curation, the research will also contribute to the development of new neural-symbolic theories, paradigms and methods, such as deep semantic embedding for learning representations for expressive knowledge, and knowledge-guided learning for addressing sample shortage problems.
     web: https://www.cs.ox.ac.uk/projects/ConCur/index.html
@@ -22,7 +22,7 @@ main:
 
   - title: "Comparison and Abstraction of SNOMED CT Ontologies"
     authors: "Partners: University of Manchester, Snomed International."
-    project_short: SNOMED Diff
+    project_short: SNOMED
     project: The project aims to apply knowledge and tools developed from previous research for tracking the changes between different versions of an ontology and forgetting some terms from an ontology thereby computing an abstraction of it. The focus of the project was a trial on a core subset of the SNOMED CT medical ontology in order to address content-related quality issues. The key deliverables are insight and automated support for tracking the different country versions of the sub-ontologies and bespoke abstractions of SNOMED CT (sub-)ontologies.
     # web: https://sirius-labs.no/
     notes:
