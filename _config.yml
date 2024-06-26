@@ -42,7 +42,8 @@ linkedin: https://uk.linkedin.com/in/jieyingchen
 # researchgate: https://www.researchgate.net/profile/Song-Chen-60
 
 # Images 
-avatar: ./assets/img/Oxford_Jieying.jpg
+# avatar: ./assets/img/Oxford_Jieying.jpg
+avatar: ./assets/img/VU_modify
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
