@@ -1,5 +1,5 @@
 main:
-  - title: Zero downtime in cyber physical systems
+  - title: Zero Downtime in Cyber Physical Systems
     authors: "Partners: Philips, Canon, etc."
     project_short: Zorro
     project: ZORRO is a research project funded by NWO and carried out by a multidisciplinary consortium consisting of University of Twente, Vrije Universiteit, Saxion, TNO-ESI and industrial partners ASML, Canon Production Printers, ITEC, Philips, and ThermoFisher Scientific.
@@ -13,9 +13,16 @@ main:
     web: https://www.cs.ox.ac.uk/projects/ConCur/index.html
     notes:
 
-  - title: "Enabling digitalization in and beyond the oil and gas industry"
+  - title: "Enabling Digitalization in and beyond the Oil and Gas Industry"
     authors: "Partners: University of Oxford, SINTEF, Aibel, Bosch, Equinor, etc."
     project_short: SIRIUS
     project: SIRIUS is a Norwegian Centre for Research-driven Innovation that addresses the problems of scalable data access in and beyond the oil & gas industry. The centre combines public funding for basic research with funding from its industry partners into an 8 year programme for industrial innovation.
     web: https://sirius-labs.no/
+    notes:
+
+  - title: "Comparison and Abstraction of SNOMED CT Ontologies"
+    authors: "Partners: University of Manchester, Snomed International."
+    project_short: SNOMED Diff
+    project: The project aims to apply knowledge and tools developed from previous research for tracking the changes between different versions of an ontology and forgetting some terms from an ontology thereby computing an abstraction of it. The focus of the project was a trial on a core subset of the SNOMED CT medical ontology in order to address content-related quality issues. The key deliverables are insight and automated support for tracking the different country versions of the sub-ontologies and bespoke abstractions of SNOMED CT (sub-)ontologies.
+    # web: https://sirius-labs.no/
     notes:
