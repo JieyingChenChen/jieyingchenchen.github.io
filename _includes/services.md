@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>..<a href="https://bmvc2023.org/people/organisers/"><autocolor>DL Workshop</autocolor></a><autocolor>2027</autocolor></a></li>
+  <li><autocolor>DL Workshop</autocolor></a><autocolor>2027</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Program Committee Member</h4>
