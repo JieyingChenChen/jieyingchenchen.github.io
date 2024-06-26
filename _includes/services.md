@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>DL Workshop</autocolor></a><autocolor>2027</autocolor></a></li>
+  <autocolor>DL Workshop</autocolor></a><autocolor>2027</autocolor></a>
 </ul>
 
 <h4 style="margin:0 10px 0;">Program Committee Member</h4>
