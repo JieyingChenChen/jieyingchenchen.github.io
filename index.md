@@ -11,7 +11,7 @@ layout: homepage
   I earned my PhD degree from [Université Paris-Saclay (France)](https://www.universite-paris-saclay.fr/). In June 2018, I was selected as one of the ten representative PhD students in Artificial Intelligence to attend [French American Doctoral Exchange Seminar (FADEx) 2018](https://france-science.com/en/programs/our-programs/fadex/) organised by Mission pour la Science et la Technologie aux États-Unis (Office for Science and Technology at the Embassy of France in the United States). From October 2013 to March 2014, I was an exchange student in the master's program of [computational logic at TU Dresden (Germany)](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/master-computational-logic#:~:text=Based%20on%20a%20sound%20background,Program%20focusing%20on%20Computational%20Logic) funded by the EU programme [Erasmus Mundus scholarship](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students).
   
 
-## Research Interests:
+## Research Interests
 - **Knowledge Representation and Reasoning:** Description Logics, Ontology Modularity, Justifications, Uniform Interpolation / Forgetting.
 - **Semantic Web:** Ontology Modeling, Ontology Modularity, Ontology Extraction.
 - **Industrial Collaborations:** Experience in medicine, energy, and manufacturing sectors.
