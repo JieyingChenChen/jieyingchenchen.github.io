@@ -10,11 +10,17 @@ main:
   - title: "Publications"
     url: ./#publications
 
+  - title: "Projects"
+    url: ./#projects
+    
   - title: "Services"
     url: ./#services
 
   - title: "News"
     url: ./#news
+
+ - title: "Consulting"
+    url: ./#consulting
 
   # - title: "Blogs"
   #   url: ./blog/
