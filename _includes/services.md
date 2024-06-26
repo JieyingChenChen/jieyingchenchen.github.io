@@ -5,13 +5,13 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <autocolor>DL Workshop</autocolor></a><autocolor>2027</autocolor></a>
+  DL Workshop 2027
 </ul>
 
 <h4 style="margin:0 10px 0;">Program Committee Member</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>IJCAI2024, DL2024, IJCAI2023, DL2022, IJCAI2022, SOQE2021, DL2021, IJCAI2021, DL2020, ECAI2020, HQA2019, JDSEParis 17</li>
+  IJCAI 2024, DL 2024, IJCAI 2023, DL 2022, IJCAI 2022, SOQE 2021, DL 2021, IJCA I2021, DL 2020, ECAI 2020, HQA 2019, JDSEParis 2017
   
 </ul>
 
