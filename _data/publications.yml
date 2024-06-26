@@ -2,11 +2,11 @@ main:
   - title: Improving Reasoning on Large Ontologies via Ontology Modularity
     authors: <strong>Jieying Chen</strong>, Johanna P. Haarseth, Christian M. Hansen, Martin G. Skjæveland, Arild Waaler
     conference_short: ISWC 2023
-    conference: 22nd International Semantic Web Conference
+    conference: 22nd International Semantic Web Conference, Industry track
     pdf: [PDF]
     page: [BibTeX]
     bibtex: [BibTeX]
-    notes: Posters/Demos/Industry
+    notes: 
 
   - title: Union and Intersection of all Justifications
     authors: <strong>Jieying Chen</strong>, Yue Ma, Rafael Peñaloza, Hui Yang
@@ -35,14 +35,14 @@ main:
     bibtex: [BibTeX]
     notes: Published
 
-  # - title: Deductive Module Extraction for Expressive Description Logics
-  #   authors: Patrick Koopmann, <strong>Jieying Chen</strong>
-  #   conference_short: IJCAI 2020
-  #   conference: 29th International Joint Conference on Artificial Intelligence
-  #   pdf: [PDF]
-  #   page: 1636-1643
-  #   bibtex: [PDF][BibTeX]
-  #   notes: Published
+  - title: Deductive Module Extraction for Expressive Description Logics
+    authors: Patrick Koopmann, <strong>Jieying Chen</strong>
+    conference_short: IJCAI 2020
+    conference: 29th International Joint Conference on Artificial Intelligence
+    pdf: [PDF]
+    page: 1636-1643
+    bibtex: 
+    notes: Published
 
   - title: "Ontology Extraction for Large Ontologies via Modularity and Forgetting"
     authors: <strong>Jieying Chen</strong>, Ghadah Alghamdi, Renate A. Schmidt, Dirk Walther, Yongsheng Gao
