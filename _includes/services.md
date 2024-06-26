@@ -19,6 +19,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://aij.ijcai.org/"><autocolor>Artificial Intelligence</autocolor></a></li>
+  <li><a href="https://aij.ijcai.org/"><autocolor>Artificial Intelligence Journal</autocolor></a></li>
+  <li><a href="https://www.semantic-web-journal.net/"><autocolor>Semantic Web Journal</autocolor></a></li>
   
 </ul>
