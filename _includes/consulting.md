@@ -4,7 +4,7 @@
 - **Key Responsibilities:**
   - Established and tracked work streams.
   - Coordinated team efforts and managed detailed work plans in an agile manner.
-  - Maintained client relationships at an expert level.
+  - Maintained client relationships.
   - Defined scope for work modules, including work segments, dependencies, deliverables, and budget.
   - Identified, assessed, tracked, and escalated project-level issues.
   - Monitored project progress.
