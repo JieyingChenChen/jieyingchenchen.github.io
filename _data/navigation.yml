@@ -25,7 +25,7 @@ main:
 
 
   - title: "Students"
-    url: ./#team
+    url: ./#students
 
   - title: "Bio"
     url: ./#about-me
