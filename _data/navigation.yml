@@ -22,8 +22,8 @@ main:
   - title: "Consulting" 
     url: ./#consulting
 
-  # - title: "Blogs"
-  #   url: ./blog/
+  - title: "Students"
+    url: ./#team
 
   - title: "Bio"
     url: ./#about-me
