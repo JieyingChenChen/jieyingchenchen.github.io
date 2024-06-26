@@ -27,13 +27,14 @@ layout: homepage
 
 <!-- 
 {% include_relative _includes/news.md %}
+
+{% include_relative _includes/publications.md %}
+
 {% include_relative _includes/projects.md %}
+
 {% include_relative _includes/consulting.md %}
-{% include_relative _includes/contact.md %}
 
 
-{% include_relative _includes/publications.md %}
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/teaching.md %}
 
