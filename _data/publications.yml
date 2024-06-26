@@ -11,154 +11,149 @@ main:
     authors: <strong>Jieying Chen</strong>, Yue Ma, Rafael Peñaloza, Hui Yang
     conference_short: ESWC 2022
     conference: 19th European Semantic Web Conference
-    pdf: [PDF]
-    page: [BibTeX]
-    bibtex: [BibTeX]
+    pdf: https://2022.eswc-conferences.org/wp-content/uploads/2022/05/paper_47_Chen_et_al.pdf
+    bibtex: https://dblp.org/rec/conf/esws/ChenMPY22.html?view=bibtex
     notes: Published
 
   - title: "Scaling Usability of ML Analytics with Knowledge Graphs: Exemplified with A Bosch Welding Case"
     authors: Baifan Zhou, Dongzhuoran Zhou, <strong>Jieying Chen</strong>, Yulia Svetashova, Gong Cheng, Evgeny Kharlamov
     conference_short: IJCKG 2021
     conference: 10th International Joint Conference on Knowledge Graphs
-    pdf: [PDF]
-    page: [BibTeX]
-    bibtex: [BibTeX]
+    pdf: https://dl.acm.org/doi/fullHtml/10.1145/3502223.3502230
+    bibtex: https://dblp.org/rec/conf/jist/ZhouZCS0K21.html?view=bibtex
     notes: Published
 
   - title: "Towards Ontology Reshaping for KG Generation with User-in-the-Loop: Applied to Bosch Welding"
     authors: Dongzhuoran Zhou, Baifan Zhou, <strong>Jieying Chen</strong>, Gong Cheng, Evgeny Kharlamov
     conference_short: IJCKG 2021
     conference: 10th International Joint Conference on Knowledge Graphs
-    pdf: [PDF]
-    page: [BibTeX]
-    bibtex: [BibTeX]
+    pdf: https://dl.acm.org/doi/fullHtml/10.1145/3502223.3502243
+    bibtex: https://dblp.org/rec/conf/jist/ZhouZCCKK21.html?view=bibtex
     notes: Published
 
   - title: Deductive Module Extraction for Expressive Description Logics
     authors: Patrick Koopmann, <strong>Jieying Chen</strong>
     conference_short: IJCAI 2020
     conference: 29th International Joint Conference on Artificial Intelligence
-    pdf: [PDF]
+    pdf: https://www.ijcai.org/Proceedings/2020/227
     page: 1636-1643
-    bibtex: 
+    bibtex: https://www.ijcai.org/proceedings/2020/bibtex/227
     notes: Published
 
   - title: "Ontology Extraction for Large Ontologies via Modularity and Forgetting"
     authors: <strong>Jieying Chen</strong>, Ghadah Alghamdi, Renate A. Schmidt, Dirk Walther, Yongsheng Gao
     conference_short: K-Cap 2019
     conference: 10th International Conference on Knowledge Capture
-    pdf: [PDF]
+    pdf: https://dl.acm.org/doi/10.1145/3360901.3364424
     page: 45-52
-    bibtex: [BibTeX]
+    bibtex: https://dblp.org/rec/conf/kcap/ChenAS0G19.html?view=bibtex
     notes: Published
 
   - title: "Computing Minimal Projection Modules of Description Logic Terminologies"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
     conference_short: JELIA 2019
     conference: 16th edition of the European Conference on Logics in Artificial Intelligence
-    pdf: [PDF]
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-19570-0_23
     page: 355-370
-    bibtex: [BibTeX]
+    bibtex: https://citation-needed.springer.com/v2/references/10.1007/978-3-030-19570-0_23?format=bibtex&flavour=citation
     notes: Published
   
   - title: "Computing Minimal Subsumption Modules of Ontologies"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Dirk Walther
     conference_short: GCAI 2018
     conference: 4th Global Conference on Artificial Intelligence
-    pdf: [PDF]
+    pdf: https://easychair.org/publications/paper/7t4L
     page: September 2018
-    bibtex: [BibTeX]
+    bibtex:  https://easychair.org/publications/paper/7t4L
     notes: Published
   
   - title: "Zooming in on Ontologies: Minimal Modules and Best Excerpts"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
     conference_short: ISWC 2017
     conference: 16th International Semantic Web Conference
-    pdf: [PDF]
+    pdf: https://link.springer.com/chapter/10.1007/978-3-319-68288-4_11
     page: 173–189
-    bibtex: [BibTeX]
+    bibtex: https://citation-needed.springer.com/v2/references/10.1007/978-3-319-68288-4_11?format=bibtex&flavour=citation
     notes: Published
   
   - title: "Towards Extracting Ontology Excerpts"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
     conference_short: KSEM 2015
     conference: 8th International Conference on Knowledge Science, Engineering and Management
-    pdf: [PDF]
+    pdf: https://lat.inf.tu-dresden.de/research/papers/2015/ChLuMaWa-KSEM-2015.pdf
     page: 78–89
-    bibtex: [BibTeX]
+    bibtex: https://dblp.uni-trier.de/rec/conf/ksem/ChenLM015.html?view=bibtex
     notes: Published
   
-  - title: "Union and Intersection of all Justifications"
+  - title: "Union and Intersection of all Justifications (Extended Abstract)"
     authors: <strong>Jieying Chen</strong>, Yue Ma, Rafael Peñaloza, Hui Yang
     conference_short: DL 2021
     conference: 34th International Workshop on Description Logics
-    pdf: [PDF]
-    bibtex: [BibTeX]
+    pdf: https://ceur-ws.org/Vol-2954/abstract-12.pdf
     notes: Published
   
-  - title: "Deductive Module Extraction for Expressive Description Logics"
+  - title: "Deductive Module Extraction for Expressive Description Logics (Extended Abstract) "
     authors: Patrick Koopmann, <strong>Jieying Chen</strong>
     conference_short: DL 2020
     conference: 33rd International Workshop on Description Logics
-    pdf: [PDF]
-    bibtex: [BibTeX]
+    pdf: https://ceur-ws.org/Vol-2663/abstract-17.pdf
+    bibtex: https://dblp.org/rec/conf/dlog/KoopmannC20.html?view=bibtex
     notes: Published
   
   - title: "Modularity Meets Forgetting: A Case Study with the SNOMED CT Ontology"
     authors: <strong>Jieying Chen</strong>, Ghadah Alghamdi, Renate A. Schmidt, Dirk Walther, Yongsheng Gao
     conference_short: DL 2019
     conference: 32nd International Workshop on Description Logics
-    pdf: [PDF]
+    pdf: https://ceur-ws.org/Vol-2373/paper-10.pdf
     page: June 2019
-    bibtex: [BibTeX]
+    bibtex: https://dblp.org/rec/conf/dlog/ChenAS0G19.html?view=bibtex
     notes: Published
   
   - title: "Computing Best Ontology Excerpts via Partial Max-SAT Solving"
     authors: <strong>Jieying Chen</strong>, Yue Ma, Dirk Walther
     conference_short: DL 2018
     conference: 31st International Workshop on Description Logics
-    pdf: [PDF]
-    bibtex: [BibTeX]
+    pdf: https://ceur-ws.org/Vol-2211/paper-13.pdf
+    bibtex: https://dblp.org/rec/conf/dlog/ChenM018.html?view=bibtex
     notes: Published
   
   - title: "Computing Minimal Projection Modules for Conjunctive Queries"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
     conference_short: DL 2018
     conference: 31st International Workshop on Description Logics
-    pdf: [PDF]
-    bibtex: [BibTeX]
+    pdf: https://ceur-ws.org/Vol-2211/paper-12.pdf
+    bibtex: https://dblp.org/rec/conf/dlog/ChenLM018.html?view=bibtex
     notes: Published
   
   - title: "Computing ALCH-Subsumption Modules Using Uniform Interpolation"
     authors: Patrick Koopmann, <strong>Jieying Chen</strong>
     conference_short: SOQE 2017
     conference: Workshop on Second-Order Quantifier Elimination and Related Topics
-    pdf: [PDF]
-    bibtex: [BibTeX]
+    pdf: https://ceur-ws.org/Vol-2013/paper15.pdf
+    bibtex: https://dblp.org/rec/conf/dlog/KoopmannC20.html?view=bibtex
     notes: Published
   
   - title: "Computing Subsumption Justifications of Ontologies"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
     conference_short: DL 2017
     conference: 30th International Workshop on Description Logics
-    pdf: [PDF]
-    bibtex: [BibTeX]
+    pdf: https://ceur-ws.org/Vol-1879/paper36.pdf
     notes: Published
   
   - title: "On Computing Minimal EL-Subsumption Modules"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Dirk Walther
     conference_short: JOMO 2016
     conference: Joint Ontology Workshops 2016
-    pdf: [PDF]
-    bibtex: [BibTeX]
+    pdf: https://ceur-ws.org/Vol-1660/womocoe-paper6.pdf
+    bibtex: https://dblp.uni-trier.de/rec/conf/fois/ChenL016.html?view=bibtex
     notes: Published
   
   - title: "Evaluation of Extraction Techniques for Ontology Excerpts"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
     conference_short: DL 2014
     conference: 27th International Workshop on Description Logics
-    pdf: [PDF]
+    pdf: https://ceur-ws.org/Vol-1193/paper_71.pdf
     page: 471–482
-    bibtex: [BibTeX]
+    bibtex: https://dblp.uni-trier.de/rec/conf/dlog/ChenLM014.html?view=bibtex
     notes: Published
 
