@@ -5,29 +5,16 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>..<a href="https://bmvc2023.org/people/organisers/"><autocolor>DL Workshop</autocolor></a> <a href="h12"><autocolor>2027</autocolor></a>-<a href="12"><autocolor>2023</autocolor></a></li>
-  <li>s<a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>sd</autocolor></a></li>
+  <li>..<a href="https://bmvc2023.org/people/organisers/"><autocolor>DL Workshop</autocolor></a><autocolor>2027</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">sd</h4>
+<h4 style="margin:0 10px 0;">Program Committee Member</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr.thecvf.com/"><autocolor>...</autocolor></a></li>
+  <li>IJCAI2024, DL2024, IJCAI2023, DL2022, IJCAI2022, SOQE2021, DL2021, IJCAI2021, DL2020, ECAI2020, HQA2019, JDSEParis 17</li>
   
 </ul>
 
-<h4 style="margin:0 10px 0;">...</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://ijcai-21.org/"><autocolor>...</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">..</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>...</autocolor></a></li>
-  
-</ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
