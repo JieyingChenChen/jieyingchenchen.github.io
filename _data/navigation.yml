@@ -21,6 +21,7 @@ main:
 
   - title: "Consulting" 
     url: ./#consulting
+    right: true 
 
   - title: "Students"
     url: ./#team
