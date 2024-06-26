@@ -22,6 +22,8 @@ main:
   - title: "News"
     url: ./#news
 
+  - title: "Teaching"
+    url: ./#teaching
 
 
   - title: "Students"
