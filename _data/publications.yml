@@ -1,4 +1,13 @@
 main:
+  - title: Supporting Companion Planting with the CoPla ontology.
+    authors: Giacomo Zamprogno, Patrick Koopmann, Mark Adamik, Lise Stork, Ritten Roothaert, Romana Pernisch, Ameneh Naghdipour, Benno Kruit, <strong>Jieying Chen</strong>, Stefan Schlobach, and Ilaria Tiddi. 
+    conference_short: KG4S-ESWC 2024
+    conference: second international Workshop on Knowledge Graphs for Sustainability at 21st Extended Semantic Web Conference
+    # pdf: https://ceur-ws.org/Vol-3632/ISWC2023_paper_499.pdf
+    # bibtex: https://dblp.org/rec/conf/semweb/ChenHHSW23.html?view=bibtex
+
+
+
   - title: Improving Reasoning on Large Ontologies via Ontology Modularity
     authors: <strong>Jieying Chen</strong>, Johanna P. Haarseth, Christian M. Hansen, Martin G. Skjæveland, Arild Waaler
     conference_short: ISWC 2023
