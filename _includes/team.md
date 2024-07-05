@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">PhD Student</h4>
 - Ameneh Naghdi Pour
 
-<h4 style="margin:0 10px 0;">MSc Student</h4>
+<h4 style="margin:0 10px 0;">MSc Students</h4>
 - Andreas Christian Poole (2023-2025)
 - Willem Huijzer (2024)
 - Nina Liem (2024)
@@ -17,7 +17,7 @@
 - Johanna Peerdatter Haarseth (2020-2022)
 
 
-<h4 style="margin:0 10px 0;">BSc Student</h4>
+<h4 style="margin:0 10px 0;">BSc Students</h4>
 - Radu Mistreanu (2024)
 - Pei Tong (2024)
 - Yucheng Zou (2024)
