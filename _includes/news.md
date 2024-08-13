@@ -5,7 +5,7 @@
 <ul>
 <li><strong>[JUL. 2024]</strong> Our paper, ‘Ontology Text Alignment: Aligning Textual Content with Terminological Axioms’, has just been accepted by <span style="color:#e74d3c"><a href="https://www.ecai2024.eu/">ECAI 2024</a></span>.</li>
 
-<li><strong>[JUL. 2024]</strong>  I will be serving as one of the co-chairs of the selection committee for this year's <span style="color:#e74d3c"><a href="https://amsterdamdatascience.nl/news/call-for-nominations-is-open-amsterdam-ai-thesis-awards/">Amsterdam AI thesis award</a></span>. I would like to encourage all eligible candidates to submit their theses for consideration.</li>
+<li><strong>[JUL. 2024]</strong>  I will be serving as one of the co-chairs of the selection committee for this year's <span style="color:#e74d3c"><a href="https://www.amsterdamai.com/en/events/Amsterdam%20AI%20Thesis%20Awards">Amsterdam AI thesis award</a></span>. I would like to encourage all eligible candidates to submit their theses for consideration.</li>
 
 <li><strong>[FEB. 2024]</strong> I'm excited to share that I have moved to Amsterdam and begun a new position as an Assistant Professor at VU Amsterdam. A heartfelt thank you to everyone at the University of Oxford for your support and wonderful experiences!</li>
 <li><strong>[OCT. 2023]</strong> I gave a presentation about our work  <span style="color:#e74d3c"><a href="https://ceur-ws.org/Vol-3632/ISWC2023_paper_499.pdf">Improving Reasoning on Large Ontologies via Ontology Modularity</a></span>  with <span style="color:#e74d3c"><a href="https://aibel.com/">Aibel AS</a></span>  on the industry track of ISWC 2023. </li>
