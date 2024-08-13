@@ -3,14 +3,14 @@
 <h2 style="margin: 30px 0px 10px;">Students</h2>
 
 <h4 style="margin:0 10px 0;">PhD Student</h4>
-- Ameneh Naghdi Pour
+- Ameneh Naghdi Pour (2024-now)
 
 <h4 style="margin:0 10px 0;">MSc Students</h4>
 - Andreas Christian Poole (2023-2025)
 - Willem Huijzer (2024)
 - Nina Liem (2024)
 - Milena de Swart (2024)
-- Karen van Jong (2024)
+- Karen de Jong (2024)
 - Cheremy Pongajow (2024)
 - Alva Marie Høylyk (2021-2023)
 - Martin Tri Vien Lam (2021-2023)
