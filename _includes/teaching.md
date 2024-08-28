@@ -14,8 +14,8 @@
 
 -->
 - **Knowledge and Data (Fall 2024/2025)**: Co-teach at Vrije Universiteit Amsterdam, the Netherlands, focusing on semantic web.
-- **AI in Health (Spring 2023/2024)**: Co-taught at Vrije Universiteit Amsterdam, the Netherlands, focusing on applications of artificial intelligence in healthcare.
-- **Database System (Spring 2021)**: Examiner for oral exams at the University of Oslo, Norway, ensuring rigorous assessment and comprehensive student feedback.
+- **AI in Health (Spring 2023/2024)**: Co-taught at Vrije Universiteit Amsterdam, the Netherlands, focusing on the applications of artificial intelligence in healthcare.
+- **Database System (Spring 2021)**: Examiner for oral exams at the University of Oslo, Norway.
 - **Semantic Technologies (Spring 2021/2022)**:
   - Served as coordinator and main lecturer at the University of Oslo, Norway.
   - Course contents included RDF, SPARQL, OWL, SHACL, etc.
