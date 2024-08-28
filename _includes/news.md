@@ -3,6 +3,9 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[AUG. 2024]</strong> I gave a talk at <span style="color:#e74d3c"><a href="https://www.integreat.no/">the Integreat Centre</a></span>, the
+Norwegian Centre for Knowledge-driven Machine Learning.</li>
+  
 <li><strong>[JUL. 2024]</strong> Our paper, ‘Ontology Text Alignment: Aligning Textual Content with Terminological Axioms’, has just been accepted by <span style="color:#e74d3c"><a href="https://www.ecai2024.eu/">ECAI 2024</a></span>.</li>
 
 <li><strong>[JUL. 2024]</strong>  I will be serving as one of the co-chairs of the selection committee for this year's <span style="color:#e74d3c"><a href="https://www.amsterdamai.com/en/events/Amsterdam%20AI%20Thesis%20Awards">Amsterdam AI thesis award</a></span>. I would like to encourage all eligible candidates to submit their theses for consideration.</li>
