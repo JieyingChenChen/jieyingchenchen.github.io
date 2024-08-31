@@ -1,6 +1,6 @@
 main:
-  - title: Ontology Text Alignment: Aligning Textual Content to Terminological Axioms.
-    authors: <strong>Jieying Chen</strong>, Hang Dong, Jiaoyan Chen, and Ian Horrocks. 
+  - title: Ontology Text Alignment: Aligning Textual Content to Terminological Axioms
+    authors: <strong>Jieying Chen</strong>, Hang Dong, Jiaoyan Chen, and Ian Horrocks
     conference_short: ECAI 2024
     conference: 27th European Conference on Artificial Intelligence
     notes: to appear
