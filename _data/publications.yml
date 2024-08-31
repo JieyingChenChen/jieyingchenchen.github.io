@@ -1,10 +1,9 @@
 main:
-
   - title: Ontology Text Alignment: Aligning Textual Content to Terminological Axioms.
     authors: <strong>Jieying Chen</strong>, Hang Dong, Jiaoyan Chen, and Ian Horrocks. 
     conference_short: ECAI 2024
     conference: 27th European Conference on Artificial Intelligence
-    # notes: to appear
+    notes: to appear
     
   - title: Supporting Companion Planting with the CoPla ontology.
     authors: Giacomo Zamprogno, Patrick Koopmann, Mark Adamik, Lise Stork, Ritten Roothaert, Romana Pernisch, Ameneh Naghdipour, Benno Kruit, <strong>Jieying Chen</strong>, Stefan Schlobach, and Ilaria Tiddi. 
