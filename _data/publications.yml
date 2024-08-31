@@ -1,14 +1,14 @@
 main:
 
-  - title: SOntology Text Alignment: Aligning Textual Content to Terminological Axioms.
+  - title: Ontology Text Alignment: Aligning Textual Content to Terminological Axioms.
     authors: <strong>Jieying Chen</strong>, Hang Dong, Jiaoyan Chen, and Ian Horrocks. 
     conference_short: ECAI 2024
     conference: 27th European Conference on Artificial Intelligence
-    notes: to appear
+    # notes: to appear
     
   - title: Supporting Companion Planting with the CoPla ontology.
     authors: Giacomo Zamprogno, Patrick Koopmann, Mark Adamik, Lise Stork, Ritten Roothaert, Romana Pernisch, Ameneh Naghdipour, Benno Kruit, <strong>Jieying Chen</strong>, Stefan Schlobach, and Ilaria Tiddi. 
-    conference_short: KG4S-ESWC 2024
+    conference_short: KG4S 2024
     conference: second international Workshop on Knowledge Graphs for Sustainability at 21st Extended Semantic Web Conference
     # pdf: https://ceur-ws.org/Vol-3632/ISWC2023_paper_499.pdf
     # bibtex: https://dblp.org/rec/conf/semweb/ChenHHSW23.html?view=bibtex
