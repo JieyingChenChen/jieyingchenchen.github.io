@@ -7,8 +7,7 @@
 
 <li><strong>[SEP. 2024]</strong> Our paper about the Zorro project has been accepted by the <span style="color:#e74d3c"><a href="https://iswc2024.semanticweb.org/">ISWC</a></span> industry track. </li>
 
-<li><strong>[AUG. 2024]</strong> I gave a talk at <span style="color:#e74d3c"><a href="https://www.integreat.no/">the Integreat Centre</a></span>, the
-Norwegian Centre for Knowledge-driven Machine Learning.</li>
+
 <li><strong>[AUG. 2024]</strong> I gave a talk at <span style="color:#e74d3c"><a href="https://www.integreat.no/">the Integreat Centre</a></span>, the
 Norwegian Centre for Knowledge-driven Machine Learning.</li>
   
