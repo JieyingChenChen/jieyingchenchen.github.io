@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[NOV. 2024]</strong> I gave a talk at the <span style="color:#e74d3c"><a href="[https://esi.nl/](https://kastle-lab.github.io/llms-and-kg-engineering/index)"> 2024 AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering</a></span>, together with Ameneh. </li>
+<li><strong>[NOV. 2024]</strong> I gave a talk at the <span style="color:#e74d3c"><a href="https://kastle-lab.github.io/llms-and-kg-engineering/index"> 2024 AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering</a></span>, together with Ameneh. </li>
   
 <li><strong>[SEP. 2024]</strong> I gave a talk at the research seminar <span style="color:#e74d3c"><a href="https://esi.nl/">TNO-ESI</a></span>, together with Ameneh. </li>
 
