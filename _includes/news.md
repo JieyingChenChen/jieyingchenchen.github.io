@@ -6,6 +6,8 @@
 <li><strong>[NOV. 2024]</strong> I gave a talk at the <span style="color:#e74d3c"><a href="https://kastle-lab.github.io/llms-and-kg-engineering/index"> 2024 AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering</a></span>. </li>
 
 <li><strong>[NOV. 2024]</strong> Our paper about the Zorro project has been accepted by the demo & poster track at the <span style="color:#e74d3c"><a href="https://event.cwi.nl/ekaw2024/"> EKAW 2024</a></span>. </li>
+
+<li><strong>[SEP. 2024]</strong> I presented our work “Ontology Text Alignment: Aligning Textual Content with Terminological Axioms” at the <span style="color:#e74d3c"><a href="https://www.ecai2024.eu/"> European Conference On Artificial Intelligence (ECAI 2024)</a></span>. </li>
   
 <li><strong>[SEP. 2024]</strong> I gave a talk at the research seminar <span style="color:#e74d3c"><a href="https://esi.nl/">TNO-ESI</a></span>, together with Ameneh. </li>
 
