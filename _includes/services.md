@@ -24,6 +24,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://aij.ijcai.org/"><autocolor>Artificial Intelligence Journal</autocolor></a></li>
+  <li><a href="https://www.jmlr.org/"><autocolor>Journal of Machine Learning Research</autocolor></a></li>
   <li><a href="https://www.semantic-web-journal.net/"><autocolor>Semantic Web Journal</autocolor></a></li>
   
 </ul>
