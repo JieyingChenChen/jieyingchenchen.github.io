@@ -9,6 +9,7 @@
   - Defined scope for work modules, including work segments, dependencies, deliverables, and budget.
   - Identified, assessed, tracked, and escalated project-level issues.
   - Monitored project progress.
+  - Pitch to potential clients and draft tailored proposals.
 - **Relevant Activities:**
   - Conducted internal and external meetings to align with key stakeholders.
   - Organized workshops and working sessions.
