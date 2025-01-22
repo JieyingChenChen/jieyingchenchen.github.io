@@ -20,3 +20,4 @@
   - Vendor RfP for a saving and investment platform for a Nordic bank.
   - Product strategy and due diligence for a software company.
   - Management of cloud transmission projects for a global retailer.
+  - Preparation of proposals for pitching to potential clients in venture capital firms and the dairy industry.
