@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[NOV. 2024]</strong> Excited to announce a <span style="color:#e74d3c">fully funded PhD position</span> co-supervised with Dr. Michael Cochez and Dr. Stefan Schlobach. Here is the link to the <span style="color:#e74d3c"><a href="https://workingat.vu.nl/vacancies/phd-position-in-advancing-explainable-ai-for-knowledge-extraction-amsterdam-1139565">advertisement</a></span>. If you have any other question, please feel free to contact me!</li>
+<li><strong>[JAN. 2024]</strong> Excited to announce a <span style="color:#e74d3c">fully funded PhD position</span> co-supervised with Dr. Michael Cochez and Dr. Stefan Schlobach. Here is the link to the <span style="color:#e74d3c"><a href="https://workingat.vu.nl/vacancies/phd-position-in-advancing-explainable-ai-for-knowledge-extraction-amsterdam-1139565">advertisement</a></span>. If you have any other question, please feel free to contact me!</li>
   
 <li><strong>[JAN. 2025]</strong> Our paper has been accepted for the Web4Good track at The Web Conference (WWW). </li>
   
