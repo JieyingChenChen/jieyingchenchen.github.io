@@ -3,11 +3,9 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-
-<li><strong>[JAN. 2025]</strong> Our paper has been accepted for the Web4Good track at The Web Conference (WWW). </li>
-
-<li><strong>[NOV. 2024]</strong> Excited to announce a <span style="color:#e74d3c">fully funded PhD position</span> co-supervised with Dr. Stefan Schlobach. If you're interested in my research topics, please feel free to contact me!</li>
+<li><strong>[NOV. 2024]</strong> Excited to announce a <span style="color:#e74d3c">fully funded PhD position</span> co-supervised with Dr. Michael Cochez and Dr. Stefan Schlobach. Here is the link to the <span style="color:#e74d3c"><a href="https://workingat.vu.nl/vacancies/phd-position-in-advancing-explainable-ai-for-knowledge-extraction-amsterdam-1139565">advertisement</a></span>. If you have any other question, please feel free to contact me!</li>
   
+<li><strong>[JAN. 2025]</strong> Our paper has been accepted for the Web4Good track at The Web Conference (WWW). </li>
   
 <li><strong>[NOV. 2024]</strong> I gave a talk at the <span style="color:#e74d3c"><a href="https://kastle-lab.github.io/llms-and-kg-engineering/index"> 2024 AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering</a></span>. </li>
 
