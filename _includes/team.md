@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">Students</h2>
 
 <h4 style="margin:0 10px 0;">PhD Student</h4>
-- Ameneh Naghdi Pour (2024-now)
+- <span style="color:#e74d3c"><a href="https://ameneh71.github.io/">Ameneh Naghdi Pour</a></span> (2024-now)  
 
 <h4 style="margin:0 10px 0;">MSc Students</h4>
 - Andreas Christian Poole (2023-2025)
