@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><strong>[JAN. 2025]</strong> Our paper, based on an MSc thesis, has been accepted for the Web4Good track at The Web Conference (WWW). </li>
+<li><strong>[JAN. 2025]</strong> Our paper has been accepted for the Web4Good track at The Web Conference (WWW). </li>
 
 <li><strong>[NOV. 2024]</strong> Excited to announce a <span style="color:#e74d3c">fully funded PhD position</span> co-supervised with Dr. Stefan Schlobach. If you're interested in my research topics, please feel free to contact me!</li>
   
