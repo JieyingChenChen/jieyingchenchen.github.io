@@ -6,20 +6,29 @@
 - <span style="color:#e74d3c"><a href="https://ameneh71.github.io/">Ameneh Naghdi Pour</a></span> (2024-now)  
 
 <h4 style="margin:0 10px 0;">MSc Students</h4>
-- Andreas Christian Poole (2023-2025)
+- Matei Anton (2025)
+- Ibrahim Ahmedoglu (2025)
+- Andreas Christian Poole (UiO, lasted for two years, 2023-2025)
 - Willem Huijzer (2024)
 - Nina Liem (2024)
 - Milena de Swart (2024)
-- Karen de Jong (2024)
+- Karen de Jong (2024), received runner-up best Amsterdam AI thesis award
 - Cheremy Pongajow (2024)
-- Alva Marie Høylyk (2021-2023)
-- Martin Tri Vien Lam (2021-2023)
-- Johanna Peerdatter Haarseth (2020-2022)
+- Alva Marie Høylyk (UiO, lasted for two years, 2021-2023)
+- Martin Tri Vien Lam (UiO, lasted for two years, 2021-2023)
+- Johanna Peerdatter Haarseth (UiO, lasted for two years, 2020-2022)
 
 
 <h4 style="margin:0 10px 0;">BSc Students</h4>
+- Elena Elderson Nosti (2025)
+- Oliwier Augustynowicz (2025)
+- Liam Cunningham (2025)
+- Joep Windt  (2025)
+- Jan Burakowski (2025)
+- Sávio Porsius Martins (2025)
 - Radu Mistreanu (2024)
 - Pei Tong (2024)
 - Yucheng Zou (2024)
 - Job Kayhan (2024)
+
 
