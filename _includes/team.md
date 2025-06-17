@@ -3,7 +3,8 @@
 <h2 style="margin: 30px 0px 10px;">Students</h2>
 
 <h4 style="margin:0 10px 0;">PhD Student</h4>
-- <span style="color:#e74d3c"><a href="https://ameneh71.github.io/">Ameneh Naghdi Pour</a></span> (2024-now)  
+- <span style="color:#e74d3c"><a href="https://ameneh71.github.io/">Ameneh Naghdi Pour</a></span> (12/2024-now)  
+- <span style="color:#e74d3c"><a href="https://research.vu.nl/en/persons/tom-pelletreau-duris">Tom Pelletreau-Duris</a></span> (06/2025-now)  
 
 <h4 style="margin:0 10px 0;">MSc Students</h4>
 - Matei Anton (2025)
