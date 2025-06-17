@@ -1,6 +1,6 @@
 main:
 
-  - title: "Detecting Linguistic Bias in Government Documents Using Large language Models"
+  - title: "Detecting Linguistic Bias in Government Documents Using Large Language Models"
     authors: Milena de Swart, Floris den Hengst, <strong>Jieying Chen</strong>
     conference_short: WWW 2025
     conference: Web4Good track of 2025 ACM Web Conference
@@ -8,21 +8,7 @@ main:
     bibtex: https://dblp.org/rec/conf/www/SwartHC25.html?view=bibtex
     notes: Published
 
- - title: "Intelligent Fault Diagnosis of Cyber Physical Systems using Knowledge Graphs"
-    authors: Ameneh Naghdipour, Benno Kruit, <strong>Jieying Chen</strong>, Peter Kruizinga, Godfried Webers, Stefan Schlobach
-    conference_short: EKAW 2024
-    conference: 2024 International Conference on Knowledge Engineering and Knowledge Management (Poster track)
-    pdf: https://ceur-ws.org/Vol-3967/PD_paper_172.pdf
-    bibtex: https://dblp.org/rec/conf/ekaw/NaghdipourKCKWS24.html?view=bibtex
-    notes: Published 
 
- - title: "Knowledge Representation and Engineering for Smart Diagnosis of Cyber Physical Systems"
-    authors: Ameneh Naghdipour, Benno Kruit, <strong>Jieying Chen</strong>, Peter Kruizinga, Godfried Webers, Stefan Schlobach
-    conference_short: ISWC 2024
-    conference: 2024 International Semantic Web Conference (Industry Track)
-    pdf: https://ceur-ws.org/Vol-3828/paper41.pdf
-    bibtex: https://dblp.org/rec/conf/semweb/NaghdipourKCKWS24.html?view=bibtex
-    notes: Published 
     
   - title: "Ontology Text Alignment: Aligning Textual Content to Terminological Axioms"
     authors: <strong>Jieying Chen</strong>, Hang Dong, Jiaoyan Chen, and Ian Horrocks
