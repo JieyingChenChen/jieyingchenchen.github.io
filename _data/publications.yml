@@ -1,4 +1,13 @@
 main:
+
+  - title: "Detecting Linguistic Bias in Government Documents Using Large language Models"
+    authors: Milena de Swart, Floris den Hengst, <strong>Jieying Chen</strong>
+    conference_short: WWW 2025
+    conference: 2025 ACM Web Conference
+    pdf: https://dl.acm.org/doi/abs/10.1145/3696410.3714526
+    bibtex: https://dblp.org/rec/conf/www/SwartHC25.html?view=bibtex
+    notes: Published
+    
   - title: "Ontology Text Alignment: Aligning Textual Content to Terminological Axioms"
     authors: <strong>Jieying Chen</strong>, Hang Dong, Jiaoyan Chen, and Ian Horrocks
     conference_short: ECAI 2024
