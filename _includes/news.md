@@ -6,13 +6,13 @@
 
 <li><strong>[JUL. 2025]</strong> Our paper has been accepted for the research track at <span style="color:#e74d3c"><a href="https://iswc2025.semanticweb.org/">ISWC 2025</a></span>. </li>
   
-<li><strong>[MAY. 2025]</strong> Our proposal ‘Enhancing Fairness in HR Management through Bias Detection and Mitigation in Large Language Models using Knowledge Bases’ has been funded by <span style="color:#e74d3c"><a href="https://vu-ut.nl/en">VU-UT Alliance </a></span>. Don't hesitate to get in touch with me if you would like to be the research assistant for this project. </li>
+<li><strong>[MAY. 2025]</strong> Our proposal ‘Enhancing Fairness in HR Management through Bias Detection and Mitigation in Large Language Models using Knowledge Bases’ has been funded by <span style="color:#e74d3c"><a href="https://vu-ut.nl/en">VU-UT Alliance</a></span>. Don't hesitate to get in touch with me if you would like to be the research assistant for this project. </li>
 
 <li><strong>[MAY. 2025]</strong> I gave an oral and poster presentation for our paper at <span style="color:#e74d3c"><a href="https://www2025.thewebconf.org/">The Web Conference (WWW 2025) </a></span>. </li>
 
 <li><strong>[JAN. 2024]</strong> Excited to announce a <span style="color:#e74d3c">fully-funded PhD position</span> co-supervised with Dr. Michael Cochez and Dr. Stefan Schlobach. Please find more details <span style="color:#e74d3c"><a href="https://workingat.vu.nl/vacancies/phd-position-in-advancing-explainable-ai-for-knowledge-extraction-amsterdam-1139565">here</a></span>. Please submit your application directly through the provided link, as email submissions will not be considered. If you have any other question, please feel free to contact me!</li>
   
-<li><strong>[JAN. 2025]</strong> Our paper has been accepted for the Web4Good track at <span style="color:#e74d3c"><a href="https://www2025.thewebconf.org/">The Web Conference (WWW 2025) </a></span>. </li>
+<li><strong>[JAN. 2025]</strong> Our paper has been accepted for the Web4Good track at <span style="color:#e74d3c"><a href="https://www2025.thewebconf.org/">The Web Conference (WWW 2025)</a></span>. </li>
   
 <li><strong>[NOV. 2024]</strong> I gave a talk at the <span style="color:#e74d3c"><a href="https://kastle-lab.github.io/llms-and-kg-engineering/index"> 2024 AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering</a></span>. </li>
 
