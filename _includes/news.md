@@ -3,6 +3,9 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+
+<li><strong>[JUL. 2025]</strong> Our paper has been accepted for the research track at <span style="color:#e74d3c"><a href="https://iswc2025.semanticweb.org/">ISWC 2025</a></span>. </li>
+  
 <li><strong>[MAY. 2025]</strong> Our proposal ‘Enhancing Fairness in HR Management through Bias Detection and Mitigation in Large Language Models using Knowledge Bases’ has been funded by <span style="color:#e74d3c"><a href="https://vu-ut.nl/en">VU-UT Alliance </a></span>. Don't hesitate to get in touch with me if you would like to be the research assistant for this project. </li>
 
 <li><strong>[MAY. 2025]</strong> I gave an oral and poster presentation for our paper at <span style="color:#e74d3c"><a href="https://www2025.thewebconf.org/">The Web Conference (WWW 2025) </a></span>. </li>
