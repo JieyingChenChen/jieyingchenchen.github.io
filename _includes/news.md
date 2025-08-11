@@ -4,9 +4,11 @@
 
 <ul>
 
+<li><strong>[MAY. 2025]</strong> Our proposal ‘PoliBias: Cross-National Analysis of Political Bias in Language Models’ was selected for funding for the Network Institute Academy Assistant Projects 2025-26. Please don't hesitate to get in touch with me if you would like to be the research assistant for this project. </li>
+
 <li><strong>[JUL. 2025]</strong> Our paper has been accepted for the research track at <span style="color:#e74d3c"><a href="https://iswc2025.semanticweb.org/">ISWC 2025</a></span>. </li>
   
-<li><strong>[MAY. 2025]</strong> Our proposal ‘Enhancing Fairness in HR Management through Bias Detection and Mitigation in Large Language Models using Knowledge Bases’ has been funded by <span style="color:#e74d3c"><a href="https://vu-ut.nl/en">VU-UT Alliance</a></span>. Don't hesitate to get in touch with me if you would like to be the research assistant for this project. </li>
+<li><strong>[MAY. 2025]</strong> Our proposal ‘Enhancing Fairness in HR Management through Bias Detection and Mitigation in Large Language Models using Knowledge Bases’ has been funded by <span style="color:#e74d3c"><a href="https://vu-ut.nl/en/news/results-of-the-vu-ut-internal-call-2025-14-proposals-awarded-one-pending-approval">VU-UT Alliance</a></span>. Don't hesitate to get in touch with me if you would like to be the research assistant for this project. </li>
 
 <li><strong>[MAY. 2025]</strong> I gave an oral and poster presentation for our paper at <span style="color:#e74d3c"><a href="https://www2025.thewebconf.org/">The Web Conference (WWW 2025)</a></span>. </li>
 
