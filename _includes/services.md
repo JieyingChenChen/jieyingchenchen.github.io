@@ -6,15 +6,18 @@
 
 <ul style="margin:0 0 5px;">
   <li>Co-chair of the selection committee (PC co-chair) for <a href="https://amsterdamdatascience.nl/news/call-for-nominations-is-open-amsterdam-ai-thesis-awards/">Amsterdam AI Best Thesis Awards 2024</a></li>
-  <li> DL Workshop 2027</li>
+  <li> International Workshop on Semantic Industrial Information Modelling (SemIIM) 2026 </li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Program Committee Member</h4>
 
 <ul style="margin:0 0 5px;">
   <li>International Joint Conference on Artificial Intelligence: IJCAI 2024, IJCAI 2023, IJCAI 2022, IJCAI 2021</li>
+  <li>ACM Web Conference 2025 </li>
+  <li>International Semantic Web Conference: ISWC 2025</li>
   <li>International Workshop on Description Logics: DL 2024, DL 2023, DL 2022, DL 2021, DL 2020 </li>
   <li>European Conference on Artificial Intelligence: IJCAI-ECAI 2022, ECAI 2020</li>
+  <li>International Workshop on Semantic Industrial Information Modelling: SemIIM 2023, SemIIM 2024, SemIIM 2025 </li>
   <li>SemIIM2023, SOQE 2021,  HQA 2019, JDSEParis 2017</li>
   
 </ul>
