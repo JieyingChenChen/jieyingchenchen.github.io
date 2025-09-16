@@ -15,9 +15,9 @@
 - Milena de Swart (2024)
 - Karen de Jong (2024), received runner-up best Amsterdam AI thesis award
 - Cheremy Pongajow (2024)
-- Alva Marie Høylyk (UiO, lasted for two years, 2021-2023)
-- Martin Tri Vien Lam (UiO, lasted for two years, 2021-2023)
-- Johanna Peerdatter Haarseth (UiO, lasted for two years, 2020-2022)
+- Alva Marie Høylyk (UiO, designed to last for two years, 2021-2023)
+- Martin Tri Vien Lam (UiO, designed to last for two years, 2021-2023)
+- Johanna Peerdatter Haarseth (UiO, designed to last for two years, 2020-2022)
 
 
 <h4 style="margin:0 10px 0;">BSc Students</h4>
