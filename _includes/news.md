@@ -12,7 +12,7 @@
 
 <li><strong>[MAY. 2025]</strong> I gave an oral and poster presentation for our paper at <span style="color:#e74d3c"><a href="https://www2025.thewebconf.org/">The Web Conference (WWW 2025)</a></span>. </li>
 
-<li><strong>[APR. 2025]</strong> I gave a talk at the research seminar at <span style="color:#e74d3c"><a href="https://www.asml.com/en">ASML</a></span> on the topic of "Unlocking the Power of Ontology and Knowledge Graphs: Applications and Innovations in Industries". </li>
+<li><strong>[APR. 2025]</strong> I gave a talk at the research seminar at <span style="color:#e74d3c"><a href="https://www.asml.com/en">ASML</a></span> on the topic of "Unlocking the Power of Ontology and Knowledge Graphs: Applications and Innovations in Industries". </li>
 
 <li><strong>[JAN. 2024]</strong> Excited to announce a <span style="color:#e74d3c">fully-funded PhD position</span> co-supervised with Dr. Michael Cochez and Dr. Stefan Schlobach. Please find more details <span style="color:#e74d3c"><a href="https://workingat.vu.nl/vacancies/phd-position-in-advancing-explainable-ai-for-knowledge-extraction-amsterdam-1139565">here</a></span>. Please submit your application directly through the provided link, as email submissions will not be considered. If you have any other question, please feel free to contact me!</li>
   
