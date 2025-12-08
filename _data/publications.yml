@@ -37,7 +37,7 @@ main:
   - title: "Ontology Text Alignment: Aligning Textual Content to Terminological Axioms"
     authors: <strong>Jieying Chen</strong>, Hang Dong, Jiaoyan Chen, and Ian Horrocks
     conference_short: ECAI 2024
-    conference: 27th European Conference on Artificial Intelligence
+    conference: 27th European Conference on Artificial Intelligence (Research Track)
     pdf: https://ebooks.iospress.nl/doi/10.3233/FAIA240639
     bibtex: https://dblp.org/rec/conf/ecai/ChenDC024.html?view=bibtex
     notes: Published
@@ -87,7 +87,7 @@ main:
   - title: Deductive Module Extraction for Expressive Description Logics
     authors: Patrick Koopmann, <strong>Jieying Chen</strong>
     conference_short: IJCAI 2020
-    conference: 29th International Joint Conference on Artificial Intelligence
+    conference: 29th International Joint Conference on Artificial Intelligence, main track
     pdf: https://www.ijcai.org/Proceedings/2020/227
     page: 1636-1643
     bibtex: https://www.ijcai.org/proceedings/2020/bibtex/227
@@ -123,7 +123,7 @@ main:
   - title: "Zooming in on Ontologies: Minimal Modules and Best Excerpts"
     authors: <strong>Jieying Chen</strong>, Michel Ludwig, Yue Ma, Dirk Walther
     conference_short: ISWC 2017
-    conference: 16th International Semantic Web Conference
+    conference: 16th International Semantic Web Conference (Research Track)
     pdf: https://link.springer.com/chapter/10.1007/978-3-319-68288-4_11
     page: 173–189
     bibtex: https://citation-needed.springer.com/v2/references/10.1007/978-3-319-68288-4_11?format=bibtex&flavour=citation
