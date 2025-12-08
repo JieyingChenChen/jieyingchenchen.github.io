@@ -1,5 +1,13 @@
 main:
 
+  - title: "Parallel Reasoning in Sequoia"
+    authors: Alexander Furmston, David J. Tena Cucala, <strong>Jieying Chen</strong>, Bernardo Cuenca Grau
+    conference_short: ISWC 2025
+    conference: 24th International Semantic Web Conference (Research Track)
+    pdf: https://link.springer.com/chapter/10.1007/978-3-032-09527-5_17
+    bibtex: https://dblp.org/rec/conf/semweb/FurmstonCCG25.html?view=bibtex
+    notes: Published
+
   - title: "Detecting Linguistic Bias in Government Documents Using Large Language Models"
     authors: Milena de Swart, Floris den Hengst, <strong>Jieying Chen</strong>
     conference_short: WWW 2025
