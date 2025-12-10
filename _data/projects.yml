@@ -5,14 +5,12 @@ main:
     project: ZORRO is a research project funded by NWO and carried out by a multidisciplinary consortium consisting of University of Twente, Vrije Universiteit, Saxion, TNO-ESI and industrial partners ASML, Canon Production Printers, ITEC, Philips, and ThermoFisher Scientific.
     web: https://zorro-project.nl/
     notes:
-
     
   - title: PoliBias: Cross-National Analysis of Political Bias in Language Models
     authors: "Role: Principal Investigator (with Dr. Chendi Wang)."
     project_short: PoliBias
     project: A research project funded by the Network Institute Academy Assistant Programme 2025–26, investigating ideological and entity-level political biases in large language models across multiple countries.
     notes: "Approximately €27,000, funded by the Network Institute Academy Assistant Projects 2025–26."
-    
 
   - title: Enhancing Fairness in HR Management through Bias Detection and Mitigation in Large Language Models using Knowledge Bases
     authors: "Role: Principal Investigator (with Dr. Maarten Renkema)."
