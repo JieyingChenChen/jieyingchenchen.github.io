@@ -10,13 +10,13 @@ main:
     authors: "Role: Principal Investigator (with Dr. Chendi Wang)."
     project_short: PoliBias
     project: A research project funded by the Network Institute Academy Assistant Programme 2025–26, investigating ideological and entity-level political biases in large language models across multiple countries.
-    notes: "Approximately €27,000, funded by the Network Institute Academy Assistant Projects 2025–26."
+    notes: 
 
   - title: "Enhancing Fairness in HR Management through Bias Detection and Mitigation in Large Language Models using Knowledge Bases"
     authors: "Role: Principal Investigator (with Dr. Maarten Renkema)."
     project_short: FairHR-LLM
-    project: A collaborative research project funded by VU–UT, focusing on detecting and mitigating bias in LLM-driven HR processes through the integration of structured knowledge bases.
-    notes: "€35,000, Funded by the VU–UT collaboration programme."
+    project: A collaborative research project funded by the VU–UT collaboration programme, focusing on detecting and mitigating bias in LLM-driven HR processes through the integration of structured knowledge bases.
+    notes: 
   
   - title: "ConCur: Knowledge Base Construction and Curation"
     authors: "Partners: University of Oxford, Samsung."
