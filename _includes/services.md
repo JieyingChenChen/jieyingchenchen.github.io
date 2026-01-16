@@ -15,7 +15,7 @@
   <li>International Joint Conference on Artificial Intelligence: IJCAI 2024, IJCAI 2023, IJCAI 2022, IJCAI 2021</li>
   <li>ACM Web Conference (WWW) 2025, 2026 </li>
   <li>International Semantic Web Conference: ISWC 2025</li>
-  <li>International Workshop on Description Logics: DL 2024, DL 2023, DL 2022, DL 2021, DL 2020 </li>
+  <li>International Workshop on Description Logics: DL 2025, DL 2024, DL 2023, DL 2022, DL 2021, DL 2020 </li>
   <li>European Conference on Artificial Intelligence: IJCAI-ECAI 2022, ECAI 2020</li>
   <li>International Workshop on Semantic Industrial Information Modelling: SemIIM 2023, SemIIM 2024, SemIIM 2025 </li>
   <li>SemIIM2023, SOQE 2021,  HQA 2019, JDSEParis 2017</li>
