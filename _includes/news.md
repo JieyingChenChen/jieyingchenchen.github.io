@@ -4,6 +4,8 @@
 
 <ul>
 
+<li><strong>[JAN. 2026]</strong> My proposal “PoliBiasEU: A Scalable and Multilingual Benchmark and Framework for Detecting Political Bias in Large Language Models” has been awarded funding through the XS programme of Netherlands Organisation for Scientific Research (NWO). Please don't hesitate to get in touch with me if you would like to be hired as a research assistant for this project.</li>
+
 <li><strong>[JUL. 2025]</strong> Our proposal ‘PoliBias: Cross-National Analysis of Political Bias in Language Models’ was selected for funding for the Network Institute Academy Assistant Projects 2025-26. Please don't hesitate to get in touch with me if you would like to be the research assistant for this project. </li>
 
 <li><strong>[JUL. 2025]</strong> Our paper has been accepted for the research track at <span style="color:#e74d3c"><a href="https://iswc2025.semanticweb.org/">ISWC 2025</a></span>. </li>
