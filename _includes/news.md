@@ -4,6 +4,8 @@
 
 <ul>
 
+<li><strong>[Apr. 2026]</strong> Two full papers got accepted by the AI and Social Good track of IJCAI 2026.</li>
+
 <li><strong>[JAN. 2026]</strong> My proposal “PoliBiasEU: A Scalable and Multilingual Benchmark and Framework for Detecting Political Bias in Large Language Models” has been awarded funding through the NWO XS programme. Please don't hesitate to get in touch with me if you would like to be hired as a research assistant for this project.</li>
 
 <li><strong>[JUL. 2025]</strong> Our proposal ‘PoliBias: Cross-National Analysis of Political Bias in Language Models’ was selected for funding for the Network Institute Academy Assistant Projects 2025-26. Please don't hesitate to get in touch with me if you would like to be the research assistant for this project. </li>
