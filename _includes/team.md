@@ -7,11 +7,13 @@
 - <span style="color:#e74d3c"><a href="https://research.vu.nl/en/persons/tom-pelletreau-duris">Tom Pelletreau-Duris</a></span> (06/2025-now)  
 
 <h4 style="margin:0 10px 0;">Research Assistants (with paid appointments)</h4>
-- Jan Burakowski (2025-2026)
-- Tünde de Vries (2025)
+- Jan Burakowski (2025, 2026)
+- Lea Stražišar (2026)
+- Filip Rehburg (2026)
+- Tünde de Vries (2025, 2026)
 - Rhodé Schuitemaker (2025)
 
-
+<!--
 <h4 style="margin:0 10px 0;">MSc Students</h4>
 - Matei Anton (2025)
 - Ibrahim Ahmedoglu (2025)
@@ -37,5 +39,5 @@
 - Pei Tong (2024)
 - Yucheng Zou (2024)
 - Job Kayhan (2024)
-
+-->
 
