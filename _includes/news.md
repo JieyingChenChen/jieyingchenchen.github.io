@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><strong>[Jun. 2026]</strong> Happy to share that our proposal TRACE: Trustworthiness and Reliability Auditing of Conversational-AI for Elections
+<li><strong>[Jul. 2026]</strong> Happy to share that our proposal TRACE: Trustworthiness and Reliability Auditing of Conversational-AI for Elections
 has been accepted by Network institute NIAA program. </li>
 
 <li><strong>[Jun. 2026]</strong> Happy to share that our NWO KIC proposal FEDERATE has been granted. </li>
