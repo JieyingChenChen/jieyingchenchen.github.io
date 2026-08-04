@@ -4,6 +4,8 @@
 
 <ul>
 
+<li><strong>[Jun. 2026]</strong> Happy to share that our NWO KIC proposal FEDERATE has been accepted. </li>
+
 <li><strong>[Apr. 2026]</strong> Two full papers got accepted by the AI and Social Good track of IJCAI 2026.</li>
 
 <li><strong>[JAN. 2026]</strong> My proposal “PoliBiasEU: A Scalable and Multilingual Benchmark and Framework for Detecting Political Bias in Large Language Models” has been awarded funding through the NWO XS programme. Please don't hesitate to get in touch with me if you would like to be hired as a research assistant for this project.</li>
