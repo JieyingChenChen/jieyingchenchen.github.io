@@ -1,4 +1,11 @@
 main:
+  - title: "FEDERATE – Fair Energy Data Environments for Renewable Autonomous Twin Empowerment"
+    authors: "Role: Co-PI, VU PI and core application team member."
+    project_short: FEDERATE
+    project: FEDERATE develops fair, safe and practical ways to share energy data so digital twins can better support the energy transition. The project tackles barriers such as unclear data ownership, privacy risks and incompatible standards that stop key players from accessing the data they need. Working with municipalities, businesses and citizen sustainability collective, FEDERATE designs human-centred rules, tools and reference designs that protect people’s rights while allowing secure, efficient data exchange. The results will help create trustworthy energy dataspaces that reduce costs, ease grid congestion and support smarter local planning. Our co-funders and societal partners: Gemeente Alkmaar, ESRI, Electricity Campus, Stedin, Zenmo, and Duurzaam Heiloo.
+    web: 
+    notes:
+    
   - title: "Zero Downtime in Cyber Physical Systems"
     authors: "Role: WP2 leader."
     project_short: Zorro
