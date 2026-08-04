@@ -7,7 +7,7 @@
 <li><strong>[Jun. 2026]</strong> Happy to share that our proposal TRACE: Trustworthiness and Reliability Auditing of Conversational-AI for Elections
 has been accepted by Network institute NIAA program. </li>
 
-<li><strong>[Jun. 2026]</strong> Happy to share that our NWO KIC proposal FEDERATE has been accepted. </li>
+<li><strong>[Jun. 2026]</strong> Happy to share that our NWO KIC proposal FEDERATE has been granted. </li>
 
 <li><strong>[Apr. 2026]</strong> Two full papers got accepted by the AI and Social Good track of IJCAI 2026.</li>
 
