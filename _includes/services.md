@@ -5,8 +5,9 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
+  <li> General and local chair of the 40th Ineternational Workshop on Description Logic 2027 </li>
+  <li> Main organiser of <a href="https://sites.google.com/view/semiim-2026">International Workshop on Semantic Industrial Information Modelling (SemIIM) 2026</a>, co-located with ISWC 2026 </li>
   <li>Co-chair of the selection committee (PC co-chair) for <a href="https://amsterdamdatascience.nl/news/call-for-nominations-is-open-amsterdam-ai-thesis-awards/">Amsterdam AI Best Thesis Awards 2024</a></li>
-  <li> Main organisor of <a href="https://sites.google.com/view/semiim-2026">International Workshop on Semantic Industrial Information Modelling (SemIIM) 2026</a>, co-located with ISWC 2026 </li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Program Committee Member</h4>
