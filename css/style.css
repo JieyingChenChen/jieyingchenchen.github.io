@@ -12636,3 +12636,13 @@ body.night .twikoo code {
     background-color: #373d48;
   }
 }
+
+/* Align project abbreviations with the top of each project */
+.publications .pub-row {
+  align-items: flex-start !important;
+}
+
+.publications .pub-row .abbr {
+  align-self: flex-start !important;
+  padding-top: 4px;
+}
