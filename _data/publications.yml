@@ -1,5 +1,21 @@
 main:
 
+  - title: "White-Hat Testing for the Ballot Box: A Framework for Election AI Auditing"
+    authors: Chendi Wang, <strong>Jieying Chen</strong>
+    conference_short: IJCAI 2026
+    conference: 35th International Joint Conference on Artificial Intelligence (Special Track on AI and Social Good)
+    pdf: https://www.ijcai.org/proceedings/2026/0832
+    bibtex: https://www.ijcai.org/proceedings/2026/bibtex/832
+    notes: Published
+
+  - title: "Directional Hallucinations: Ideological Drift in News-Grounded LLM Question Answering"
+    authors: Chendi Wang, Liam Cunningham, Tom Yishay, <strong>Jieying Chen</strong>
+    conference_short: IJCAI 2026
+    conference: 35th International Joint Conference on Artificial Intelligence (Special Track on AI and Social Good)
+    pdf: https://www.ijcai.org/proceedings/2026/831
+    bibtex: https://www.ijcai.org/proceedings/2026/bibtex/831
+    notes: Published
+
   - title: "Parallel Reasoning in Sequoia"
     authors: Alexander Furmston, David J. Tena Cucala, <strong>Jieying Chen</strong>, Bernardo Cuenca Grau
     conference_short: ISWC 2025
